@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @manulliguilherme
 - 🎓 Sou estudante de Gestão da Informação e de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou fazendo parte do Programa ONE da Oracle Next Education em parceria com a Alura. 
-- 📫 Para contatos: manulliguilhermelima@gmail.com ou +5581999380865
+- 📫 Para contatos: manulliguilhermelima@gmail.com
 - 😄 Pronomes são: ela/dela 
 - ⚡ Fato divertido: adoro karaokê
 <!---
