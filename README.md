@@ -2,7 +2,7 @@
 - 🌴 Sou de Pernambuco 
 - 🎓 Sou estudante de Gestão da Informação e de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou fazendo parte do Programa ONE da Oracle Next Education em parceria com a Alura. 
-- 🎧 fato divertido: adoro ouvir música e podcasts
+- 🎧 Fato divertido: adoro ouvir música e podcasts
 - 📚 Tenho a coleção completa das obras escritas pela Jane Austen
 - 😄 Pronomes são: ela/dela
 - 📫 Para contatos: manulliguilhermelima@gmail.com
